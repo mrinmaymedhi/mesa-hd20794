@@ -18,7 +18,7 @@ The models were constructed to reproduce the observed stellar parameters (effect
 ## Scientific Context
 These models are described in detail in:
 
-> *Revisiting the Stellar Structure and Elemental Abundances of HD 20794*  
+> *A Theoretical Study of the Structure and Elemental Abundances of HD 20794: Insights from MESA Stellar Models into the Origin of Phosphorus and Chlorine*  
 > (submitted to MNRAS)
 
 The repository is intended to ensure reproducibility of the stellar
